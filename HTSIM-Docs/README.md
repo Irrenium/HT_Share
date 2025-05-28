@@ -45,4 +45,4 @@ Notre documentation est organisée comme suit:
 
 ## Comment Utiliser cette Documentation
 
-Nous vous recommandons de commencer par la section Introduction pour comprendre les bases de HTSIM, puis d'explorer les composants principaux avant de passer aux exemples pratiques. Les sections avancées vous aideront à tirer le meilleur parti du simulateur pour vos besoins spécifiques.
+Je vous recommande de commencer par la section Introduction pour comprendre les bases de HTSIM, puis d'explorer les composants principaux avant de passer aux exemples pratiques. Les sections avancées vous aideront à tirer le meilleur parti du simulateur pour vos besoins spécifiques.
