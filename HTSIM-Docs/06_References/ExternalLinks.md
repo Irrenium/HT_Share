@@ -20,7 +20,7 @@ Cette page rassemble des ressources externes utiles pour approfondir votre compr
 
 ### Recherches Récentes
 
-- [HPCC: High Precision Congestion Control](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/hpcc.pdf) - Présentation de HPCC, un algorithme de contrôle de congestion haute précision
+- [HPCC: High Precision Congestion Control](https://liyuliang001.github.io/publications/hpcc.pdf) - Présentation de HPCC, un algorithme de contrôle de congestion haute précision
 - [Swift: Delay is Simple and Effective for Congestion Control in the Datacenter](https://dl.acm.org/doi/pdf/10.1145/3387514.3406591) - Introduction au protocole Swift étudié avec HTSIM
 
 ## Concepts de Simulation Réseau
@@ -47,7 +47,7 @@ Cette page rassemble des ressources externes utiles pour approfondir votre compr
 
 - [DCTCP: Data Center TCP](https://dl.acm.org/doi/10.1145/1851182.1851192) - Article original sur DCTCP
 - [RFC 8684: TCP Extensions for Multipath Operation with Multiple Addresses](https://datatracker.ietf.org/doc/html/rfc8684) - Spécification de MPTCP
-- [RDMA over Converged Ethernet (RoCE)](https://www.ibm.com/docs/en/spectrum-scale/5.1.3?topic=considerations-rdma-over-converged-ethernet-roce) - Introduction à RoCE
+- [RDMA over Converged Ethernet (RoCE)]([https://www.ibm.com/docs/en/spectrum-scale/5.1.3?topic=considerations-rdma-over-converged-ethernet-roce](https://www.ibm.com/docs/fr/i/7.5.0?topic=concepts-rdma-over-converged-ethernet)) - Introduction à RoCE
 
 ## Architectures de Réseau
 
@@ -84,20 +84,9 @@ Cette page rassemble des ressources externes utiles pour approfondir votre compr
 
 ### Contrôle de Congestion
 
-- [A Gentle Introduction to Congestion Control](https://www.cse.wustl.edu/~jain/ ATM/ftp/congestion.pdf) - Introduction au contrôle de congestion par Raj Jain
+- [A Gentle Introduction to Congestion Control](https://www.cse.wustl.edu/~jain/cis788-95/ftp/tcpip_cong/index.html) - Introduction au contrôle de congestion par Raj Jain
 - [Congestion Control in the RFC Series](https://datatracker.ietf.org/doc/html/draft-ietf-tcpm-rfc8312bis-00) - Vue d'ensemble des approches de contrôle de congestion
 
-## Communauté et Forums
-
-### Groupes de Discussion
-
-- [IETF TCPM Working Group](https://datatracker.ietf.org/wg/tcpm/about/) - Groupe de travail sur TCP Maintenance and Minor Extensions
-- [P4 Language Consortium](https://p4.org/) - Communauté autour de la programmation des plans de données réseau
-
-### Forums et Listes de Diffusion
-
-- [Stack Overflow - Networking](https://stackoverflow.com/questions/tagged/networking) - Questions et réponses sur les réseaux
-- [Network Engineering Stack Exchange](https://networkengineering.stackexchange.com/) - Q&R pour les professionnels des réseaux
 
 ## Entreprises et Projets Associés
 
@@ -111,14 +100,3 @@ Cette page rassemble des ressources externes utiles pour approfondir votre compr
 - [Fastpass: A Centralized "Zero-Queue" Datacenter Network](https://dl.acm.org/doi/10.1145/2740070.2626309) - Approche alternative pour le contrôle de congestion
 - [HULL: High-bandwidth Ultra-Low Latency](https://dl.acm.org/doi/10.1145/2228298.2228315) - Architecture pour minimiser la latence dans les centres de données
 
-## Comment Contribuer
-
-Si vous souhaitez ajouter des liens à cette page ou contribuer au développement de HTSIM :
-
-1. **Contributions à la documentation** : Créez une pull request sur le dépôt GitHub de HTSIM
-2. **Partage de recherche** : Si vous avez utilisé HTSIM dans votre recherche, partagez vos résultats et méthodologies
-3. **Extensions et améliorations** : Développez de nouveaux composants ou améliorez les existants
-
-## Maintenir cette Liste
-
-Cette liste de ressources est maintenue par la communauté HTSIM. Si vous trouvez des liens brisés ou souhaitez suggérer de nouvelles ressources pertinentes, veuillez contacter les mainteneurs du projet ou créer une issue sur le dépôt GitHub.
