@@ -412,6 +412,5 @@ Lors de la personnalisation de HTSIM, soyez conscient des limitations:
 Si vous développez une extension utile, envisagez de contribuer au projet principal:
 
 1. Assurez-vous que votre code est bien documenté et testé
-2. Créez une demande de pull sur le dépôt GitHub
-3. Incluez des exemples et des cas de test
-4. Expliquez clairement la motivation et les avantages de votre extension
+2. Incluez des exemples et des cas de test
+3. Expliquez clairement la motivation et les avantages de votre extension
