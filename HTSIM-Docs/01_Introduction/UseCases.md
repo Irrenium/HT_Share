@@ -113,6 +113,4 @@ graph LR
     C1 -.- D[Point de Congestion]
 ```
 
-### Exemple 4 : Analyse de Performances BXI
 
-HTSIM a été utilisé pour analyser les performances de l'interconnexion BXI dans un contexte HPC, permettant de comparer différentes stratégies de routage et de contrôle de congestion.
